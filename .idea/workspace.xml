@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cd864e-b5fa-4bea-a439-2ba1c2e5af47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/avionRoba.db" beforeDir="false" afterPath="$PROJECT_DIR$/avionRoba.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Roba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -114,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="384">
+              <caret line="74" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="74" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,11 +124,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="384">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,11 +161,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Avion.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Roba.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java" />
       </list>
     </option>
   </component>
@@ -207,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547685829495" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547689970248" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AndroidKurs/Termin5Primeri/Termin5Primeri" />
   </component>
   <component name="RunDashboard">
@@ -222,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadatak2DodavanjeVrednosti">
+  <component name="RunManager" selected="Application.zadatak3IzmenaVrednosti">
     <configuration name="Zadatak1KreiranjeTabela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadaci.Zadatak1KreiranjeTabela" />
       <module name="aad.avionRoba-N.main" />
@@ -238,6 +239,19 @@
     </configuration>
     <configuration name="Zadatak2DodavanjeVrednosti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadaci.Zadatak2DodavanjeVrednosti" />
+      <module name="aad.avionRoba-N.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadatak3IzmenaVrednosti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadaci.zadatak3IzmenaVrednosti" />
       <module name="aad.avionRoba-N.main" />
       <extension name="coverage">
         <pattern>
@@ -268,6 +282,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadatak3IzmenaVrednosti" />
         <item itemvalue="Application.Zadatak2DodavanjeVrednosti" />
         <item itemvalue="Application.Zadatak1KreiranjeTabela" />
         <item itemvalue="Gradle.avionRoba-N" />
@@ -296,7 +311,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -305,7 +320,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,13 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -411,8 +419,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="384">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/zadatak3IzmenaVrednosti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
