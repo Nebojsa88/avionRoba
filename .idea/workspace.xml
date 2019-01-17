@@ -225,7 +225,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547684347388" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547684743759" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AndroidKurs/Termin5Primeri/Termin5Primeri" />
   </component>
   <component name="RunDashboard">
@@ -240,7 +240,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zadatak1KreiranjeTabela">
+    <configuration name="Zadatak1KreiranjeTabela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadaci.Zadatak1KreiranjeTabela" />
+      <module name="aad.avionRoba-N.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="avionRoba-N" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -260,6 +273,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak1KreiranjeTabela" />
         <item itemvalue="Gradle.avionRoba-N" />
       </list>
     </recent_temporary>
